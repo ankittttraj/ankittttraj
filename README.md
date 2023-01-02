@@ -1,7 +1,7 @@
 ### Hey There! 👋
 ## I am Ankit Raj!
 I'm ECE Final Year Engineering student.<br/>
-I have proficient knowledge in Pythoon and MySql.</br>
+I have proficient knowledge in Python and MySql.</br>
 I am interested in learning data structures and love to learn and explore various development fields.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
