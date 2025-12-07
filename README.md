@@ -1,16 +1,12 @@
 ### Hey There! 👋
 ## I am Ankit Raj!
-I'm ECE Final Year Engineering student.<br/>
-I have proficient knowledge in Python and MySql.</br>
-I am interested in learning data structures and love to learn and explore various development fields.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently practicing DSA.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 playing cricket.
-- 🎢 Profile Visitors Count:  
+- Data Engineer specializing in Azure & GCP ☁  
+- I design and build scalable data pipelines, lakehouse architectures, and modern analytics platforms using Databricks, Dataflow, BigQuery, Snowflake, ADF, Composer, and Kafka.  
+- Passionate about automation, real-time data, and solving business problems with data.
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ankittttraj)
 
 <br/>
