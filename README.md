@@ -1,64 +1,33 @@
-### Hey There! 👋
-## I am Ankit Raj!
+### Hi there 👋 I'm [ANKIT RAJ!](https://github.com/ankittttraj/ankittttraj/)
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+## I'm a Data Engineer at Cuedo Analytics
 
-- Data Engineer specializing in Azure & GCP ☁  
-- I design and build scalable data pipelines, lakehouse architectures, and modern analytics platforms using Databricks, Dataflow, BigQuery, Snowflake, ADF, Composer, and Kafka.  
-- Passionate about automation, real-time data, and solving business problems with data.
+<img align="right" alt="GIF" height="215px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkdzNwc3h0MzRjZjRuNmszbnE2bTE4NGRha2UyOHA5ZGdlOWlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=ankittttraj)
+- I am a Data Engineer with 2+ years of hands-on experience designing, building, and optimizing scalable data pipelines using Python, SQL, and PySpark. I specialize in delivering cloud-native data solutions across Azure and GCP environments.
 
-<br/>
+- My experience includes building batch and incremental pipelines using Dataflow, dbt, and PySpark, orchestrating workflows with Airflow and Azure Data Factory (ADF), and optimizing BigQuery for high-performance analytics and reporting workloads. I have also worked on Spark performance optimization, including partitioning, caching, join strategies, and query tuning to improve pipeline efficiency and reliability.
 
 ---
 
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-  <code><img height="20" src="https://camo.githubusercontent.com/7b17b555fdef53e6e210f1aff5cbec72dcd81522ecd1d4a542bf946f206b7607/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f31383270782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-</details>
+##### My skills Includes
+
+<p align="left">
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="Snowflake" alt="Snowflake" src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" style="margin-right: 50px;"/>
+  <img title="Google Cloud Platform" alt="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="Microsoft Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" style="margin-right: 50px;"/>
+  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="margin-right: 50px;"/>
+  <img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="40" style="margin-right: 50px;"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40"/>
+</p>
+
 
 ---
 
-<details>
-<summary> Connect with me🤝: </summary>  
+Credit: [ankittttraj](https://github.com/ankittttraj/)
 
-<br/>
-
-
-<a href="https://github.com/ankittttraj">
-  <img align="left" alt="Ankit's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-raj-121036216/">
-  <img align="left" alt="Ankit's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
-
----
-
-### Github Activity ✔:
-
-<a href="https://github.com/ankittttraj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittttraj&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/ankittttraj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankittttraj&show_icons=true&theme=tokyonight&line_height=27" alt="Ankit's github stats"/>
-</a>
-
-<br/>
-
-</div>
+Last edited on: 17/01/2025
