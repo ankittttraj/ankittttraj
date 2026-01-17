@@ -2,7 +2,7 @@
 
 ## I'm a Data Engineer at Cuedo Analytics
 
-<img align="right" alt="GIF" height="215px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkdzNwc3h0MzRjZjRuNmszbnE2bTE4NGRha2UyOHA5ZGdlOWlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkdzNwc3h0MzRjZjRuNmszbnE2bTE4NGRha2UyOHA5ZGdlOWlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
 
 - I am a Data Engineer with 2+ years of hands-on experience designing, building, and optimizing scalable data pipelines using Python, SQL, and PySpark. I specialize in delivering cloud-native data solutions across Azure and GCP environments.
 
