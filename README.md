@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkdzNwc3h0MzRjZjRuNmszbnE2bTE4NGRha2UyOHA5ZGdlOWlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
 
-- I am a Data Engineer with 2+ years of hands-on experience designing, building, and optimizing scalable data pipelines using Python, SQL, and PySpark. I specialize in delivering cloud-native data solutions across Azure and GCP environments.
+- I am a Data Engineer with 2.5+ years of hands-on experience designing, building, and optimizing scalable data pipelines using Python, SQL, and PySpark. I specialize in delivering cloud-native data solutions across Azure and GCP environments.
 
 - My experience includes building batch and incremental pipelines using Dataflow, dbt, and PySpark, orchestrating workflows with Airflow and Azure Data Factory (ADF), and optimizing BigQuery for high-performance analytics and reporting workloads. I have also worked on Spark performance optimization, including partitioning, caching, join strategies, and query tuning to improve pipeline efficiency and reliability.
 
@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="mailto:ankitr2511@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ankit-raj-121036216/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
   <a href="https://leetcode.com/u/ankittttraj/"><img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=plastic&logo=leetcode&logoColor=black"alt="LeetCode"/></a>
-  <a href="https://www.linkedin.com/in/ankit-raj-121036216/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
