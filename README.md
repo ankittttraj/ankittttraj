@@ -10,7 +10,7 @@
 
 ---
 
-##### My skills Includes
+#### My skills Includes
 
 <p align="left">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 50px;"/>
@@ -27,7 +27,3 @@
 
 
 ---
-
-Credit: [ankittttraj](https://github.com/ankittttraj/)
-
-Last edited on: 17/01/2025
