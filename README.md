@@ -13,26 +13,26 @@
 #### My skills Includes
 
 <p align="left">
-  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="Snowflake" alt="Snowflake" src="https://cdn.simpleicons.org/snowflake/29B5E8" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" style="margin-right: 50px;"/>
-  <img title="Google Cloud Platform" alt="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="Microsoft Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" style="margin-right: 50px;"/>
-  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="margin-right: 50px;"/>
-  <img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="40" style="margin-right: 50px;"/>
-  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=plastic&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=plastic&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=plastic&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
 </p>
-
 
 ---
 
 #### Connect with me
 
 <p align="left">
-	<a href="mailto:ankitr2511@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:ankitr2511@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://leetcode.com/u/ankittttraj/"><img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=plastic&logo=leetcode&logoColor=black"alt="LeetCode"/></a>
-	<a href="https://www.linkedin.com/in/ankit-raj-121036216/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ankit-raj-121036216/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
